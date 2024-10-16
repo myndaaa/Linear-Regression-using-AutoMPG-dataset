@@ -12,8 +12,8 @@ which can be used for prediction on new datasets.
  - algorithm that computes the linear relationship between the dependent variable and one or more independent features by fitting a linear equation to observed data.
  - for one independent feature it is known as simple linear regression, for multiple called multiple linear regression
  - when there is only one dependent variable, it is considered Univariate Linear Regression, while when there are more than one dependent variables, it is known as Multivariate Regression.
- 
-
+ <br>
+![figure4](./Figures/figure4.png)<br>
 ## Why is it important?
  - Linear regression is important because it’s simple, easy to understand, and it helps us learn about our data 
  - Linear regression is like the basic alphabet of machine learning. Many advanced techniques, like **regularization** (which helps prevent overfitting) and **support vector machines** (used for classification), are built on ideas from linear regression.
@@ -47,3 +47,13 @@ finding the value of m<br>
 ![figure2](./Figures/figure2.png)<br>
 finding the value of c<br>
 ![figure2](./Figures/figure3.png)<br>
+
+
+## List of learning materials for linear regression
+ - [Linear regression in 2 minutes](https://www.youtube.com/watch?v=CtsRRUddV2s&ab_channel=VisuallyExplained)
+ - [Machine Learning for Everybody](https://youtu.be/i_LwzRVP7bg?t=7817)
+ - [Scikit Learn by NicholasRenotte](https://www.youtube.com/watch?v=LglAar_m5ZY&ab_channel=NicholasRenotte)
+ 
+
+---
+Week 2 Study materials for Swinburnes "Applied Machine Learning COS30028"
