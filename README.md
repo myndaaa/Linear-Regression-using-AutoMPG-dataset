@@ -23,15 +23,15 @@ which can be used for prediction on new datasets.
 
  1. Simple Linear Regression: only one independent variable y=β0 +βX<br>
  	where:<br>
-		- Y is the dependent variable
-		- X is the independent variable
-		- β0 is the intercept
-		- β1 is the slope
+		- Y is the dependent variable<br>
+		- X is the independent variable<br>
+		- β0 is the intercept<br>
+		- β1 is the slope<br>
  2. Multiple Linear Regression: Involves more than one independent variable and one dependent variable.
     y=β0 +β1 X1+β2 X2+………βn Xn<br>
 	where:<br>
-		- Y is the dependent variable
-		- X1, X2, …, Xn are the independent variables
-		- β0 is the intercept
-		- β1, β2, …, βn are the slopes
+		- Y is the dependent variable<br>
+		- X1, X2, …, Xn are the independent variables<br>
+		- β0 is the intercept<br>
+		- β1, β2, …, βn are the slopes<br>
 **The goal of the algorithm is to find the best Fit Line equation that can predict the values based on the independent variables.**
