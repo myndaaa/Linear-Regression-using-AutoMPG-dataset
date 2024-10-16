@@ -21,8 +21,9 @@ which can be used for prediction on new datasets.
  
 ## Types of Linear regression
 
- 1. Simple Linear Regression: only one independent variable y=β0 +βX 
-	where: 
+ 1. Simple Linear Regression: only one independent variable y=β0 +βX  
+ 	where:  
+	
 		- Y is the dependent variable
 		- X is the independent variable
 		- β0 is the intercept
