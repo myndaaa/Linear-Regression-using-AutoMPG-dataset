@@ -36,3 +36,14 @@ which can be used for prediction on new datasets.
 		- β1, β2, …, βn are the slopes<br>
 
 **The goal of the algorithm is to find the best Fit Line equation that can predict the values based on the independent variables.**
+
+## What is the best Fit Line?
+The primary objective while using linear regression is to locate the best-fit line, which implies that the error between the predicted and actual values should be kept to a minimum. There will be the least error in the best-fit line.
+![figure1](./Figures/first.png)
+
+
+## Y = Mx + c
+finding the value of m<br>
+![figure2](./Figures/figure2.png)
+finding the value of c<br>
+![figure2](./Figures/figure3.png)
