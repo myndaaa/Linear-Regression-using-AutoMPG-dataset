@@ -44,6 +44,6 @@ The primary objective while using linear regression is to locate the best-fit li
 
 ## Y = Mx + c
 finding the value of m<br>
-![figure2](./Figures/figure2.png)
+![figure2](./Figures/figure2.png)<br>
 finding the value of c<br>
-![figure2](./Figures/figure3.png)
+![figure2](./Figures/figure3.png)<br>
