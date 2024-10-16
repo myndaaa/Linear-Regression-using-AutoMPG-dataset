@@ -34,4 +34,5 @@ which can be used for prediction on new datasets.
 		- X1, X2, …, Xn are the independent variables<br>
 		- β0 is the intercept<br>
 		- β1, β2, …, βn are the slopes<br>
+
 **The goal of the algorithm is to find the best Fit Line equation that can predict the values based on the independent variables.**
